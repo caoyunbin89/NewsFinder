@@ -56,6 +56,7 @@
 						<li><img id="m" src="images/small/y6.png" alt="image1" onclick="location='NewsFindert3.jsp'"/></li>
 						<li><img id="m" src="images/small/y7.png" alt="image4" onclick="location='NewsFinderch3.jsp'"/></li>
 						<li><img id="m" src="images/small/y8.png" alt="image3" onclick="location='NewsFinderb3.jsp'"/></li>
+						<li><img id="m" src="images/small/y9.png" alt="image3" onclick="location='NewsFindero3.jsp'"/></li>
 					</ul>
 					
 				</div>

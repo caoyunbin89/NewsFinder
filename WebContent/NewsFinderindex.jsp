@@ -50,6 +50,7 @@
             			<a class="orange" href="NewsFindert2.jsp">Transfusion</a>
             			<a class="royalblue" href="NewsFinderch2.jsp">Chemistry</a>
             			<a class="dk" href="NewsFinderb2.jsp">Biomedicine</a>
+            			<a class="or" href="NewsFindero2.jsp">Other</a>
             			</div>
 				</div>
 			</div>
@@ -59,7 +60,7 @@
 					<p>It's a beautiful school with many perfect students.</p>
 					<p>We are the NewsFinder team.We build this system.Our teacher is Guo Yan.We are Tang Suwen, Shen Hui, Guo Yayun, Cao Yunbin. </p>
 					<ul id="bf_dishes">
-						<li><a href="#"><img id="aaa" src="images/thumbs/1.jpg" alt="thumb1"/></a></li>
+						<li><a href="#"><img id="aaa" src="images/thumbs/31.jpg" alt="thumb1"/></a></li>
 						<li><a href="#"><img id="aaa"src="images/thumbs/21.jpg" alt="thumb2"/></a></li>
 						<li><a href="#"><img id="aaa"src="images/thumbs/3.jpg" alt="thumb3"/></a></li>
 						<li><a href="#"><img id="aaa"src="images/thumbs/cao1.jpg" alt="thumb4"/></a></li>
@@ -77,7 +78,7 @@
 							<div class="bf_desc">
 								<p>Email:330692678@qq.com</p>
 							</div>
-							<img src="images/foreground/1.jpg" alt="image1" data-bgimg="images/background/1.jpg" />
+							<img src="images/foreground/31.jpg" alt="image1" data-bgimg="images/background/31.jpg" />
 						</div>
 						<div class="bf_gallery_item">
 							<div class="bf_heading"><h2>Shen Hui</h2></div>
